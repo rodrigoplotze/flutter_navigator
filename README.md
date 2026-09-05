@@ -85,3 +85,24 @@ lib/
 │   └── exibir_view.dart
 │
 └── main.dart
+
+
+## 🤝 Contribuições
+
+Contribuições são bem-vindas.
+
+Caso encontre algum problema ou tenha sugestões de melhoria, fique à vontade para abrir uma Issue ou enviar um Pull Request.
+
+---
+
+## 📄 Licença
+
+Este projeto está licenciado sob a licença MIT.
+
+---
+
+## 👨‍💻 Autor
+
+**Rodrigo Plotze**
+
+GitHub: https://github.com/rodrigoplotze
