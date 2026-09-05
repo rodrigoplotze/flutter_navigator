@@ -85,7 +85,46 @@ lib/
 │   └── exibir_view.dart
 │
 └── main.dart
+```
 
+---
+
+## ▶️ Como Executar
+
+### Clonar o repositório
+
+```bash
+git clone https://github.com/rodrigoplotze/flutter_navigator.git
+```
+
+### Entrar na pasta do projeto
+
+```bash
+cd flutter_navigator
+```
+
+### Instalar dependências
+
+```bash
+flutter pub get
+```
+
+### Executar
+
+```bash
+flutter run
+```
+
+---
+
+## 📋 Pré-requisitos
+
+- Flutter SDK 3.x ou superior
+- Dart SDK
+- Android Studio ou VS Code
+- Emulador Android/iOS ou navegador compatível com Flutter Web
+
+---
 
 ## 🤝 Contribuições
 
