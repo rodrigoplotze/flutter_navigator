@@ -22,7 +22,9 @@ O aplicativo é composto por três telas:
 
 Tela inicial contendo um botão para abrir o formulário de cadastro.
 
-<img src = 'assets/screenshots/iniciar.png' / >
+<p align="center">
+  <img src='assets/screenshots/iniciar.png' />
+</p>
 
 ### 📝 Cadastro
 
@@ -32,7 +34,9 @@ Tela responsável por coletar as seguintes informações:
 - E-mail
 - Receber notificações (Sim ou Não)
 
-<img src = 'assets/screenshots/cadastrar.png' / >
+<p align="center">
+  <img src='assets/screenshots/cadastrar.png' />
+</p>
 
 Ao clicar em **Salvar**, os dados são armazenados no controller e exibidos na próxima tela.
 
@@ -44,7 +48,9 @@ Apresenta os dados informados pelo usuário:
 - E-mail
 - Receber notificações
 
-<img src = 'assets/screenshots/exibir.png' / >
+<p align="center">
+  <img src='assets/screenshots/exibir.png' />
+</p>
 
 Também demonstra diferentes operações de navegação do Flutter.
 
