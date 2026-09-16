@@ -1,4 +1,4 @@
-# Flutter Navigator Demo
+# Flutter Navigator
 
 Aplicativo desenvolvido em Flutter para demonstrar os principais recursos do **Navigator**, utilizando:
 
